@@ -4959,9 +4959,6 @@ function visibilityKeysDialog(){
 
 VariableImporter();
 
-//to use, create an empty layer with matching name as the csv column
-//then add a text layer which you want to bind in it
-
 var idoc = app.activeDocument;
 var variables = idoc.variables;
 
